@@ -1,0 +1,15 @@
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Debug\net6.0\BepInEx Installer.exe
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Debug\net6.0\BepInEx Installer.deps.json
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Debug\net6.0\BepInEx Installer.runtimeconfig.json
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Debug\net6.0\BepInEx Installer.dll
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Debug\net6.0\BepInEx Installer.pdb
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.csproj.AssemblyReference.cache
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.AssemblyInfoInputs.cache
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.AssemblyInfo.cs
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.csproj.CoreCompileInputs.cache
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.dll
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.pdb
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.genruntimeconfig.cache
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.csproj.Fody.CopyLocal.cache
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\obj\Debug\net6.0\BepInEx Installer.csproj.Fody.RuntimeCopyLocal.cache

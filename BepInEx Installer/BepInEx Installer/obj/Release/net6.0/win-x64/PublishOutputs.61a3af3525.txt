@@ -1,0 +1,2 @@
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Release\net6.0\win-x64\publish\BepInEx Installer.pdb
+C:\Users\bumbl\OneDrive\Desktop\BepInEx Installer\BepInEx Installer\BepInEx Installer\bin\Release\net6.0\win-x64\publish\BepInEx Installer.exe
